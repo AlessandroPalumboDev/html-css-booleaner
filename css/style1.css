@@ -8,7 +8,7 @@ header{
     height: 100px;
     background-color: rgb(17, 146, 231);
     background-image: url(../img/pattern.png);
-    background-size: 40%;
+    background-size: 20%;
 }
 
 #logo{
@@ -64,11 +64,16 @@ ul{
 table{
     margin-bottom: 20px;
     border-collapse: collapse;
+    text-align: left;
+    margin-left: 0;
 }
 
 th{
     color: white;
     background-color: rgb(17, 146, 231);
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 50px;
 }
 
 .lightblue{
@@ -89,7 +94,7 @@ h4{
 #consiglio_1, #consiglio_2{
     background-repeat: no-repeat;
     background-size:contain ;
-    height: 100px;
+    height: 200px;
     margin-bottom: 5px;
 }
 
