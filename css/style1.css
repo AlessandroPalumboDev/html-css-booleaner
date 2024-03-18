@@ -28,7 +28,6 @@ h1{
 
 #autore, #data{
     color: grey;
-
 }
 
 #booleaner{
@@ -38,6 +37,7 @@ h1{
 #data{
     font-size: small;
 }
+
 #immagini{
     margin-top: 20px;
 }
@@ -88,11 +88,11 @@ h4{
     background-repeat: no-repeat;
     background-size:contain ;
     height: 100px;
-
+    margin-bottom: 5px;
 }
 
 #consiglio_1{
-    background-image: url(../img/monitor.jpg), ;
+    background-image: url(../img/monitor.jpg);
 }
 
 #consiglio_2{
